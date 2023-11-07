@@ -1,0 +1,9 @@
+{"ap.be": "Offline", "amazon.de": "Online (Response Time: 0.03302812576293945 ms)", "Deflstack.com": "Online (Response Time: 0.16183233261108398 ms)"}
+{"ap.be": "Offline", "amazon.de": "Online (Response Time: 0.032472848892211914 ms)", "Deflstack.com": "Online (Response Time: 0.15782928466796875 ms)"}
+{"ap.be": "Offline", "amazon.de": "Online (Response Time: 0.03264665603637695 ms)", "Deflstack.com": "Online (Response Time: 0.159132719039917 ms)"}
+{"ap.be": "Offline", "amazon.de": "Online (Response Time: 0.05544567108154297 ms)", "Deflstack.com": "Online (Response Time: 0.1588287353515625 ms)"}
+{"ap.be": "Offline", "amazon.de": "Online (Response Time: 0.038666725158691406 ms)", "Deflstack.com": "Online (Response Time: 0.16063642501831055 ms)", "bol.com": "Offline"}
+{"ap.be": "Offline", "amazon.de": "Online (Response Time: 0.037587881088256836 ms)", "Deflstack.com": "Online (Response Time: 0.1606760025024414 ms)"}
+{"ap.be": "Offline", "amazon.de": "Online (Response Time: 0.03726983070373535 ms)", "Deflstack.com": "Online (Response Time: 0.15917611122131348 ms)"}
+{"ap.be": "Offline", "amazon.de": "Online (Response Time: 0.03533530235290527 ms)", "Deflstack.com": "Online (Response Time: 0.15695858001708984 ms)", "bol.com": "Offline"}
+{"ap.be": "Offline", "amazon.de": "Online (Response Time: 0.045968055725097656 ms)", "Deflstack.com": "Online (Response Time: 0.17627382278442383 ms)"}
